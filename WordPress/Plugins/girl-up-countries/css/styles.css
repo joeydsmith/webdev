@@ -1,0 +1,17 @@
+#gup-map {
+  width: 976px;
+  height: 457px;
+  background: url("img/map.png") top center no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  cursor: pointer; }
+
+#gup-map_marker {
+  font-size: 20px;
+  width: 1em;
+  height: 1em;
+  background: #b4d455;
+  border-radius: 1em;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), inset 0 -3px 3px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  display: none; }
