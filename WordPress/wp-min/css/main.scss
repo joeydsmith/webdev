@@ -1,0 +1,14 @@
+// Reset
+@include 'reset.scss';
+
+// Variables & Mixins
+@include 'config.scss';
+
+// Base theme styles
+@include 'base.scss';
+
+// Use this file for your theme
+@include 'custom.scss';
+
+// Media queries
+@include 'media.scss';
